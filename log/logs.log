@@ -15,3 +15,116 @@
 2021-27-09 23:22:04   INFO [SimpleTest:28  ] : Opening the link
 2021-27-09 23:22:20   INFO [SimpleTest:49  ] : Chek the search box
 2021-27-09 23:22:25   INFO [SimpleTest:34  ] : Closing browser
+2021-30-09 18:29:14   INFO [SimpleTest:28  ] : Opening the link
+2021-30-09 18:29:31   INFO [SimpleTest:58  ] : Check link to the tags
+2021-30-09 18:29:39   INFO [SimpleTest:34  ] : Closing browser
+2021-30-09 18:29:42   INFO [SimpleTest:28  ] : Opening the link
+2021-30-09 18:30:00   INFO [SimpleTest:40  ] : Checking link to the main page
+2021-30-09 18:30:33   INFO [SimpleTest:34  ] : Closing browser
+2021-30-09 18:30:35   INFO [SimpleTest:28  ] : Opening the link
+2021-30-09 18:30:53   INFO [SimpleTest:49  ] : Chek the search box
+2021-30-09 18:30:58   INFO [SimpleTest:34  ] : Closing browser
+2021-30-09 22:33:03   INFO [SimpleTest:28  ] : Opening the link
+2021-30-09 22:33:19   INFO [SimpleTest:40  ] : Checking link to the main page
+2021-30-09 22:33:19   INFO [SimpleTest:34  ] : Closing browser
+2021-30-09 22:38:01   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-30-09 22:38:06   INFO [CurrencyExchangeTest:41  ] : Check UAN
+2021-30-09 22:38:06   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-30-09 22:39:27   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-30-09 22:39:51   INFO [CurrencyExchangeTest:41  ] : Check UAN
+2021-30-09 22:39:52   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-30-09 22:42:24   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 22:42:47   INFO [CurrencyExchangeTest:42  ] : Check UAN
+2021-30-09 22:42:47   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 22:44:42   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 22:45:05   INFO [CurrencyExchangeTest:42  ] : Check UAN
+2021-30-09 22:45:06   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 22:57:09   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 22:57:32   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 22:57:32   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 22:58:20   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 22:58:27   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 22:58:27   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 22:59:21   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 22:59:23   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 22:59:23   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:19:12   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:20:46   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:20:46   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:21:01   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:23:35   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:23:35   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:24:49   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:24:54   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:24:54   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:27:31   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:27:33   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:27:33   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:29:38   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:30:10   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:30:10   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:30:29   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:31:01   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:31:01   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:32:13   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:32:45   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:32:46   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:33:21   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:33:54   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:33:54   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:35:09   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:35:33   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:35:33   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:36:40   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:37:04   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:37:04   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:49:08   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:49:29   INFO [CurrencyExchangeTest:64  ] : Check currency amount
+2021-30-09 23:49:29   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:50:12   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:50:12   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:50:34   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:50:40   INFO [CurrencyExchangeTest:64  ] : Check currency amount
+2021-30-09 23:50:40   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:51:46   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:52:31   INFO [CurrencyExchangeTest:64  ] : Check currency amount
+2021-30-09 23:52:31   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:53:01   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:53:25   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:53:25   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:53:43   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:54:08   INFO [CurrencyExchangeTest:50  ] : Check currency amount
+2021-30-09 23:54:09   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-30-09 23:57:06   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-30-09 23:57:27   INFO [CurrencyExchangeTest:64  ] : Check currency amount
+2021-30-09 23:57:27   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-01-10 00:01:57   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-01-10 00:02:22   INFO [CurrencyExchangeTest:63  ] : Check currency amount
+2021-01-10 00:02:22   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-01-10 00:03:21   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-01-10 00:03:44   INFO [CurrencyExchangeTest:63  ] : Check currency amount
+2021-01-10 00:03:44   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-01-10 00:05:21   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-01-10 00:05:23   INFO [CurrencyExchangeTest:63  ] : Check currency amount
+2021-01-10 00:05:23   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-01-10 00:05:47   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-01-10 00:05:51   INFO [CurrencyExchangeTest:63  ] : Check currency amount
+2021-01-10 00:05:51   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-01-10 00:07:45   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-01-10 00:08:08   INFO [CurrencyExchangeTest:63  ] : Check currency amount
+2021-01-10 00:08:08   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-01-10 00:13:58   INFO [CurrencyExchangeTest:29  ] : Opening the link
+2021-01-10 00:14:24   INFO [CurrencyExchangeTest:63  ] : Check Return Link
+2021-01-10 00:14:25   INFO [CurrencyExchangeTest:35  ] : Closing browser
+2021-01-10 00:19:49   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-01-10 00:20:14   INFO [CurrencyExchangeTest:64  ] : Check Return Link
+2021-01-10 00:20:15   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-01-10 00:24:55   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-01-10 00:24:59   INFO [CurrencyExchangeTest:64  ] : Check Return Link
+2021-01-10 00:25:00   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-01-10 00:25:43   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-01-10 00:26:07   INFO [CurrencyExchangeTest:64  ] : Check Return Link
+2021-01-10 00:26:09   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-01-10 00:30:50   INFO [CurrencyExchangeTest:30  ] : Opening the link
+2021-01-10 00:31:14   INFO [CurrencyExchangeTest:64  ] : Check Return Link
+2021-01-10 00:31:59   INFO [CurrencyExchangeTest:36  ] : Closing browser
