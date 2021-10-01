@@ -128,3 +128,22 @@
 2021-01-10 00:30:50   INFO [CurrencyExchangeTest:30  ] : Opening the link
 2021-01-10 00:31:14   INFO [CurrencyExchangeTest:64  ] : Check Return Link
 2021-01-10 00:31:59   INFO [CurrencyExchangeTest:36  ] : Closing browser
+2021-01-10 22:43:44   INFO [RegistrationTests:38  ] : Get chromeDriver
+2021-01-10 22:43:45   INFO [RegistrationTests:41  ] : browser was opened
+2021-01-10 22:43:45  ERROR [  MainPage:34  ] : Page can't opened http://automationpractice.com/
+2021-01-10 22:44:13   INFO [RegistrationTests:38  ] : Get chromeDriver
+2021-01-10 22:44:13   INFO [RegistrationTests:41  ] : browser was opened
+2021-01-10 22:44:30   INFO [  MainPage:31  ] : Page was opened http://automationpractice.com/
+2021-01-10 22:44:39   INFO [Registration2Page:31  ] : Page was opened http://automationpractice.com/index.php?controller=authentication&back=my-account
+2021-01-10 22:44:40   INFO [WebElements:32  ] : domashka5@gmail.com was inputted
+2021-01-10 22:44:40   INFO [WebElements:47  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (25187915b1565c83b404fa02d35b875a)] -> id: SubmitCreate]
+2021-01-10 22:44:45   INFO [WebElements:32  ] : Anna was inputted
+2021-01-10 22:44:46   INFO [WebElements:32  ] : Litvinenko was inputted
+2021-01-10 22:44:46   INFO [WebElements:32  ] : domashka5@gmail.com was inputted
+2021-01-10 22:44:46   INFO [WebElements:32  ] : qwerty123 was inputted
+2021-01-10 22:44:46   INFO [WebElements:32  ] : Anna was inputted
+2021-01-10 22:44:46   INFO [WebElements:32  ] : Litvinenko was inputted
+2021-01-10 22:44:47   INFO [WebElements:32  ] : 12345 was inputted
+2021-01-10 22:44:47   INFO [WebElements:32  ] : 1234567890 was inputted
+2021-01-10 22:44:47   INFO [WebElements:32  ] : domashka5@gmail.com was inputted
+2021-01-10 22:44:52   INFO [WebElements:47  ] : Element was clicked [[ChromeDriver: chrome on WINDOWS (25187915b1565c83b404fa02d35b875a)] -> xpath: //button[@id='submitAccount']]
